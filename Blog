@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html
+<head>
+    <Title>My Blog</Title>
+    <meta name="description" content="Awesome blog by Traversy Media">
+    <meta name="keywords" content="web design blog, web dev blog, company name">
+    <style type="text/css">
+        #main-header{
+                text-align: center;
+                background-color:black;
+                color:white;
+                padding:10px 
+        }
+          
+
+        #main-footer{
+            text-align: center;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<Body>
+    <header id="main heaeder">
+        <h1>My website</h1>
+    </header>
+
+    <a href="index.html">Go to index</a>
+
+    <section>
+        <article class="post">            <h3>Blog Post One</h3>
+            <small>Posted by Brandon on October 23</small>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam aliquid distinctio rem atque. Incidunt possimus vero iste. Perspiciatis officiis cum amet dignissimos ipsa dolorem, porro iusto atque, perferendis sint deleniti.</p>
+        </article>
+        article class="post2">            <h3>Blog Post One</h3>
+            <small>Posted by Brandon on October 23</small>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam aliquid distinctio rem atque. Incidunt possimus vero iste. Perspiciatis officiis cum amet dignissimos ipsa dolorem, porro iusto atque, perferendis sint deleniti.</p>
+        </article>
+    </section> 
+
+    <aside>
+        <h3>Catergories</h3>
+        <nav>  
+            <ul>
+                <li><a href="#">category 1</a></li>
+                <li><a href="#">category 2</a></li>
+                <li><a href="#">category 3</a></li>
+             </ul>
+        </nav>
+    </aside>
+
+    <footer> 
+        id="main footer"{
+        <p>Copyright &copy; 2017, My website</p>
+
+        }
+    </footer>
+</Body>
+</html>
